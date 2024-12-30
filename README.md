@@ -38,6 +38,10 @@ Once the model is trained and predictions are made, the following results will b
 •	Mean Absolute Error (MAE): Measures the average absolute difference between actual and predicted values.
 •	Root Mean Squared Error (RMSE): Measures the square root of the average squared differences between actual and predicted values.
 •	R² (RSquared): Indicates the proportion of the variance in the dependent variable that is predictable from the independent variables.
+
+GUI link 🔗 Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
+Streamlit app is live at: NgrokTunnel: "https://5d30-34-57-3-172.ngrok-free.app" -> "http://localhost:8501"
+
 Additionally, visualizations such as:
 •	Correlation Heatmap: Shows the relationships between features.
 •	Residual Plot: Displays the residuals (errors) of the predictions.
