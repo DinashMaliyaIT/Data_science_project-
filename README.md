@@ -41,6 +41,10 @@ Once the model is trained and predictions are made, the following results will b
 
 GUI link 🔗 Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
 Streamlit app is live at: NgrokTunnel: "https://5d30-34-57-3-172.ngrok-free.app" -> "http://localhost:8501"
+To view the GUI:
+1. Add Auth token from Ngrok
+2. Run Colab Notebook
+3. Access the link generated to view GUI 
 
 Additionally, visualizations such as:
 •	Correlation Heatmap: Shows the relationships between features.
